@@ -1,3 +1,5 @@
+<div align="right"> <a href="./README.md"><strong>English</strong></a> | <a href="./README_zh.md">简体中文</a> </div>
+
 # SmartGate-App (Intelligent Access Control System)
 
 A smart face recognition access control system based on the RK3568 platform. It adopts an architecture combining FastAPI, a Web Frontend, and a C++ Inference Engine, supporting both local development debugging and embedded deployment.
