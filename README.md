@@ -1,4 +1,4 @@
-<div align="right"> <a href="./README.md">English</a> | <a href="./README_zh.md"><strong>简体中文</strong></a> </div>
+<div align="right"> <a href="./README_en.md">English</a> | <a href="./README.md"><strong>简体中文</strong></a> </div>
 
 # SmartGate-App (智能门禁系统)
 
