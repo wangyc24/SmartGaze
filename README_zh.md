@@ -1,3 +1,5 @@
+<div align="right"> <a href="./README.md">English</a> | <a href="./README_zh.md"><strong>简体中文</strong></a> </div>
+
 # SmartGate-App (智能门禁系统)
 
 基于 RK3568 的智能人脸识别门禁系统，采用 FastAPI + Web 前端 + C++ 推理引擎架构，支持本地开发调试和嵌入式部署。
