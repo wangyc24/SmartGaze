@@ -357,7 +357,7 @@ A: 修改 `config.py` 中的 `DEFAULT_ADMIN_PASSWORD`，重新初始化数据库
 
 ## 👥 作者
 
-- [Juyao Huang](https://github.com/JuyaoHuang) - 系统设计与开发，人脸识别模块开发与代码审查
+- [Juyao Huang](https://github.com/JuyaoHuang) - 系统设计与人脸识别模块开发
 - [Haoran Wu](https://github.com/owl-gugugugu) - 后端开发
 - [Junshi Kong](https://github.com/kjs123456) - 前端开发 
 
