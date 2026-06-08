@@ -363,6 +363,7 @@ A: 修改 `config.py` 中的 `DEFAULT_ADMIN_PASSWORD`，重新初始化数据库
 
 ## 🔗 相关链接
 
+- [人脸识别模型训练代码](https://github.com/JuyaoHuang/SmartGaze-model-zoo)
 - [FastAPI 文档](https://fastapi.tiangolo.com/)
 - [RKNN Toolkit2 文档](https://github.com/rockchip-linux/rknn-toolkit2)
 - [Bootstrap 5 文档](https://getbootstrap.com/)
